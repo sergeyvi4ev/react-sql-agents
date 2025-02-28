@@ -1,0 +1,81 @@
+run,temp,model,input,final_answer
+1,0,gpt-4o,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder on January 15, 2018, in 'SQL City' states: ""Security footage shows that there were 2 witnesses. The first witness lives at the last house on 'Northwestern Dr'. The second witness, named Annabel, lives somewhere on 'Franklin Ave'."""
+2,1,gpt-4o,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report describes a murder on January 15, 2018, in SQL City, with two witnesses: one at the last house on 'Northwestern Dr' and another named Annabel on 'Franklin Ave'."
+3,0,gpt-4o-mini,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report indicates that on January 15, 2018, a murder occurred in 'SQL City'. There were two witnesses: one lives at the last house on ""Northwestern Dr"" and the other, named Annabel, lives somewhere on ""Franklin Ave""."
+4,1,gpt-4o-mini,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder on January 15, 2018, in 'SQL City' notes that there were two witnesses, including one named Annabel, with specific addresses provided for further investigation."
+5,0,gpt-3.5-turbo-0125,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder that occurred on Jan.15, 2018 in 'SQL City' is: Security footage shows that there were 2 witnesses. The first witness lives at the last house on ""Northwestern Dr"". The second witness, named Annabel, lives somewhere on ""Franklin Ave""."
+6,1,gpt-3.5-turbo-0125,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","There were 2 witnesses to the murder that occurred on Jan. 15, 2018 in 'SQL City'. The first witness lives at the last house on ""Northwestern Dr"" and the second witness, named Annabel, lives somewhere on ""Franklin Ave""."
+7,0,gpt-4-0125-preview,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder that occurred on January 15, 2018, in SQL City describes that ""Security footage shows that there were 2 witnesses. The first witness lives at the last house on 'Northwestern Dr'. The second witness, named Annabel, lives somewhere on 'Franklin Ave'."""
+8,1,gpt-4-0125-preview,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder on January 15, 2018, in 'SQL City' details that security footage shows there were 2 witnesses. The first witness lives at the last house on ""Northwestern Dr"". The second witness, named Annabel, lives somewhere on ""Franklin Ave""."
+9,0,gpt-4-turbo-2024-04-09,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The crime scene report for the murder on January 15, 2018, in SQL City describes that there were two witnesses. The first witness resides at the last house on ""Northwestern Dr"". The second witness, named Annabel, resides somewhere on ""Franklin Ave""."
+10,1,gpt-4-turbo-2024-04-09,"
+You are investigating a crime case and your goal is to find the perpetrator.
+Here is the assignment description:
+A crime has taken place and the detective needs your help. 
+The detective gave you the crime scene report, but you somehow lost it. 
+You vaguely remember that the crime was murder that occurred sometime on Jan.15, 2018 and that it took place in 'SQL City'. 
+Start by retrieving the corresponding crime scene report from the police department’s database.
+","The description of the murder on January 15, 2018, in SQL City is as follows: ""Security footage shows that there were 2 witnesses. The first witness lives at the last house on 'Northwestern Dr'. The second witness, named Annabel, lives somewhere on 'Franklin Ave'."""
