@@ -19,12 +19,6 @@ def initialize_sql_agent(model_name, temp, db):
     return agent_executor
 
 def run_experiment(db, exp_params, report_path):
-    """
-
-    :param db: SQLDatabase
-    :param exp_params:
-    :param report_path:
-    """
 
     results = []
 
@@ -32,7 +26,11 @@ def run_experiment(db, exp_params, report_path):
         print("#############################")
         print(f"Run #:{exp['run']}")
         print(f"Parameters: Model: {exp['model']} Temperature: {exp['temp']}")
-        agent = initialize_sql_agent(model_name=exp['model'], temp=exp['temp'], db=db)
+        agent = initialize_sql_agent(
+            model_name=exp['model'],
+            temp=exp['temp'],
+            db=db
+        )
         agent_response = agent.invoke({"input": exp['input']})
         final_ans = ReActAgentResponse(**agent_response).output
 
