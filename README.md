@@ -5,6 +5,8 @@ This repository also contains the implementation and resources for the paper "Re
 
 The paper can be accessed [here](https://pubs.aip.org/aip/acp/article-abstract/3182/1/020003/3341136/Reasoning-capabilities-of-large-language-models-on?redirectedFrom=fulltext).
 
+Data: SQL Mystery game [Source](https://mystery.knightlab.com/).
+
 ## Installation
 To install the required dependencies, run the following command:
 
